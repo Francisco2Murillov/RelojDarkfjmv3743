@@ -104,3 +104,11 @@ body{
     border-radius:10px;
     
 }
+
+#footer, p{
+    padding-top: 25px;
+    position: absolute;
+    color: greenyellow;
+    font-size: larger;
+    border: 25px;
+}
